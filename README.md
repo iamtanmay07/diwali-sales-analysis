@@ -36,7 +36,7 @@ Diwali is a significant festival, and analyzing sales data during this period ca
 
 ```bash
 # Clone the repository:
-git clone https://github.com/your-username/diwali-sales-analysis.git
+git clone https://github.com/iamtanmay07/diwali-sales-analysis.git
 
 # Navigate to the project directory:
 cd diwali-sales-analysis
